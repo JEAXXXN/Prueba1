@@ -1,0 +1,10 @@
+h1 {color: red;
+font-size: 20 px;
+font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+text-align: center;
+}
+p {color: rgba(255, 255, 255, 0.904);}
+html {background-color: rgb(28, 7, 121);}
+ol{color: white;}
+figure {color: white;}
+figcaption {color: white;}
